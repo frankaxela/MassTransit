@@ -90,7 +90,7 @@ Shows how to configure a consumer and a producer to use RabbitMQ direct exchange
 Features used:
 - RabbitMQ
 
-Clone the sample: [GitHub Repository](https://github.com/MassTransit/Sample-Quartz)
+Clone the sample: [GitHub Repository](https://github.com/MassTransit/Sample-Direct)
 
 ### Benchmark
 
